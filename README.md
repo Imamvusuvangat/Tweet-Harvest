@@ -1,2 +1,2 @@
 # Tweet-Harvest
-Sumber script https://helmisatria.com/blog/
+Sumber script https://helmisatria.com
